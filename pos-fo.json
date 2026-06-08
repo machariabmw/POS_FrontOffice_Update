@@ -1,9 +1,8 @@
 {
-  "version":"3.8.5",
-  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.exe",
+  "version":"3.8.5.100",
+  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.100.exe",
   "notes": [
-    "Resolved Sale Returns Buy",
     "Introduced Stock Auto-Capture",
-    "Added Better System Gen Item Codes"
+    "Added Branch Identifiers"
   ]
 }
