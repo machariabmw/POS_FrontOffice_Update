@@ -2,9 +2,9 @@
   "version":"3.8.5.410",
   "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.410.exe",
   "notes": [
-    "Resolved Crediting Sale Bug",
+    "Resolved Sell At Zero Bug",
     "Introduced Full-Duplex Mpesa Hybrid Transactions Processing",
-    "Oprimized Mpesa Transactions to Maintain Speed & Reliability",
+    "Optimized Batch & Expiry Speed",
     "Resolved Windows Hello (Sign In & User Accounts Mapping)",
     "NB::WINDOWS HELLO IS ONLY FOR USABLE ON DEVICES THAT SUPPORT IT!"
   ]
