@@ -1,6 +1,6 @@
 {
-  "version":"3.8.5.410",
-  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.410.exe",
+  "version":"3.8.5.420",
+  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.420.exe",
   "notes": [
     "Resolved Sell At Zero Bug",
     "Introduced Full-Duplex Mpesa Hybrid Transactions Processing",
