@@ -1,10 +1,8 @@
 {
-  "version":"3.8.5.430",
-  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.430.exe",
+  "version":"3.8.5.440",
+  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.440.exe",
   "notes": [
-    "Resolved Parent - Child [BOM] Bug",
-    "Optimized Batch & Expiry Speed",
-    "Resolved Windows Hello (Sign In & User Accounts Mapping)",
-    "NB::WINDOWS HELLO IS ONLY USABLE ON DEVICES THAT SUPPORT IT!"
+    "Introduced Bill Ref For Credited Sales",
+    "Introduced Discounting + Haggling"
   ]
 }
