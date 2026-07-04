@@ -1,8 +1,9 @@
 {
-  "version":"3.8.5.440",
-  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.440.exe",
+  "version":"3.8.5.450",
+  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.450.exe",
   "notes": [
     "Introduced Bill Ref For Credited Sales",
-    "Introduced Discounting + Haggling"
+    "Introduced Discounting + Haggling",
+    "Resolved The Bill Debit Bug"
   ]
 }
