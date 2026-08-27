@@ -2,9 +2,7 @@
   "version":"3.8.5.500",
   "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/Ray-Mac.FrontOffice.3.8.5.500.exe",
   "notes": [
-    "Refactored The Menu Totals for Session Menu",
-    "Resized The Ttansaction Verification Screen",
-    "Refactored Credit ID Generation for Indebted Sales",
-    "Resolved The Sale Holding Bug"
+    "Introduced The Price Hover Dialog",
+    "Enhanced & More Appealing Feedback for Mpesa Prompt"
   ]
 }
