@@ -1,8 +1,9 @@
 {
-  "version":"3.8.5.500",
-  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/RayMacFrontOfficeSetup.exe",
+  "version":"3.8.5.520",
+  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/RayMacFrontOffice3.8.5.520.exe",
   "notes": [
     "Introduced The Price Hover Dialog",
-    "Enhanced & More Appealing Feedback for Mpesa Prompt"
+    "Enhanced & More Appealing Feedback for Mpesa Prompt",
+    "Speed Optimized Mpesa Processor"
   ]
 }
