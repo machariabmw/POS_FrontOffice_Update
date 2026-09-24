@@ -1,9 +1,9 @@
 {
-  "version":"3.8.5.540",
-  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/RayMacFrontOffice3.8.5.540.exe",
+  "version":"3.8.5.550",
+  "url":"https://github.com/machariabmw/POS_FrontOffice_Update/releases/download/v3.8.3/RayMacFrontOffice3.8.5.550.exe",
   "notes": [
     "Added CashBox / Drawer Manual Opening [Ctrl + D]",
-    "",
-    "Improved Session Handling Processor"
+    "Solved Z-Report Bug",
+    "Optimized Out Prompt for Float & Automated End of Sessions"
   ]
 }
